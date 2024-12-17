@@ -1,0 +1,44 @@
+.navbar {
+	background-color: #6E07F3 !important;
+}
+
+.collorincol {
+	color: #6E07F3
+}
+.circle {
+	padding-top: 15px;
+	height: 80px;
+  width: 80px;
+  background-color: #9a5de8;
+  border-radius: 50%;
+}
+.hello {
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(to bottom, #6E07F3, white);
+}
+.tc {
+	color: white;
+}
+.colbg {
+	background-color: white;
+}
+
+.tcar {
+	text-align: justify !important;
+}
+.round {
+	border-radius: 50%;
+ }
+
+ .otziv1 {
+	font-size: 25px;
+	font-family: "eurostile", sans-serif;
+ }
+ .otziv {
+	font-size: 25px;
+ }
+ .fedd {
+	background-color: #9a5de8;
+	color: white;
+ }
