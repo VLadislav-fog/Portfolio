@@ -42,3 +42,27 @@
 	background-color: #9a5de8;
 	color: white;
  }
+
+ .icon {
+	transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.icon-link:hover .icon {
+	transform: scale(1.2);
+	filter: brightness(1.2);
+}
+
+.animate-on-scroll {
+	opacity: 0;
+	transform: translateY(50px);
+	transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.animate-on-scroll.visible {
+	opacity: 1;
+	transform: translateY(0);
+}
+.full-height {
+	height: 100vh;
+	width: 100%;
+}
